@@ -1,0 +1,1114 @@
+market,region,state
+APAC,Central Asia,Andhra Pradesh
+APAC,Central Asia,Assam
+APAC,Central Asia,Baluchistan
+APAC,Central Asia,Bihar
+APAC,Central Asia,Central
+APAC,Central Asia,Chandigarh
+APAC,Central Asia,Chhattisgarh
+APAC,Central Asia,Chittagong
+APAC,Central Asia,Delhi
+APAC,Central Asia,Dhaka
+APAC,Central Asia,F.C.T.
+APAC,Central Asia,Gujarat
+APAC,Central Asia,Haryana
+APAC,Central Asia,Hirat
+APAC,Central Asia,Jammu and Kashmir
+APAC,Central Asia,Jharkhand
+APAC,Central Asia,Kabul
+APAC,Central Asia,Kandahar
+APAC,Central Asia,Karnataka
+APAC,Central Asia,Kerala
+APAC,Central Asia,Khulna
+APAC,Central Asia,Khyber Pakhtunkhwa
+APAC,Central Asia,Madhya Pradesh
+APAC,Central Asia,Maharashtra
+APAC,Central Asia,Manipur
+APAC,Central Asia,Nangarhar
+APAC,Central Asia,Odisha
+APAC,Central Asia,Puducherry
+APAC,Central Asia,Punjab
+APAC,Central Asia,Rajasthan
+APAC,Central Asia,Rajshahi
+APAC,Central Asia,Sindh
+APAC,Central Asia,Sylhet
+APAC,Central Asia,Tamil Nadu
+APAC,Central Asia,Telangana
+APAC,Central Asia,Tripura
+APAC,Central Asia,Uttar Pradesh
+APAC,Central Asia,Uttarakhand
+APAC,Central Asia,West Bengal
+APAC,Central Asia,Western
+APAC,North Asia,Aichi
+APAC,North Asia,Anhui
+APAC,North Asia,Aomori
+APAC,North Asia,Beijing
+APAC,North Asia,Busan
+APAC,North Asia,Chiba
+APAC,North Asia,Chongqing
+APAC,North Asia,Daegu
+APAC,North Asia,Daejeon
+APAC,North Asia,Fujian
+APAC,North Asia,Fukui
+APAC,North Asia,Fukuoka
+APAC,North Asia,Gangwon
+APAC,North Asia,Gansu
+APAC,North Asia,Guangdong
+APAC,North Asia,Guangxi
+APAC,North Asia,Guizhou
+APAC,North Asia,Gunma
+APAC,North Asia,Gyeonggi
+APAC,North Asia,Gyeongsangnam
+APAC,North Asia,Hainan
+APAC,North Asia,Hebei
+APAC,North Asia,Heilongjiang
+APAC,North Asia,Henan
+APAC,North Asia,Hiroshima
+APAC,North Asia,Hokkaido
+APAC,North Asia,Hong Kong
+APAC,North Asia,Hubei
+APAC,North Asia,Hunan
+APAC,North Asia,Hyogo
+APAC,North Asia,Ibaraki
+APAC,North Asia,Inner Mongolia
+APAC,North Asia,Ishikawa
+APAC,North Asia,Jeju
+APAC,North Asia,Jiangsu
+APAC,North Asia,Jiangxi
+APAC,North Asia,Jilin
+APAC,North Asia,Kagawa
+APAC,North Asia,Kanagawa
+APAC,North Asia,Liaoning
+APAC,North Asia,Mie
+APAC,North Asia,Nagano
+APAC,North Asia,Nagasaki
+APAC,North Asia,Ningxia
+APAC,North Asia,Oita
+APAC,North Asia,Okayama
+APAC,North Asia,Osaka
+APAC,North Asia,Qinghai
+APAC,North Asia,Saga
+APAC,North Asia,Saitama
+APAC,North Asia,Seoul
+APAC,North Asia,Shaanxi
+APAC,North Asia,Shandong
+APAC,North Asia,Shanghai
+APAC,North Asia,Shanxi
+APAC,North Asia,Shizuoka
+APAC,North Asia,Sichuan
+APAC,North Asia,South Chungcheong
+APAC,North Asia,Taipei City
+APAC,North Asia,Tianjin
+APAC,North Asia,Tochigi
+APAC,North Asia,Tokyo
+APAC,North Asia,Tottori
+APAC,North Asia,Ulaanbaatar
+APAC,North Asia,Ulsan
+APAC,North Asia,Xinjiang Uygur
+APAC,North Asia,Yamaguchi
+APAC,North Asia,Yunnan
+APAC,North Asia,Zhejiang
+APAC,Oceania,Auckland
+APAC,Oceania,Australian Capital Territory
+APAC,Oceania,Bay of Plenty
+APAC,Oceania,Canterbury
+APAC,Oceania,Gisborne
+APAC,Oceania,Hawke's Bay
+APAC,Oceania,Manawatu-Wanganui
+APAC,Oceania,Marlborough
+APAC,Oceania,National Capital
+APAC,Oceania,Nelson
+APAC,Oceania,New South Wales
+APAC,Oceania,Northern Territory
+APAC,Oceania,Northland
+APAC,Oceania,Otago
+APAC,Oceania,Queensland
+APAC,Oceania,South Australia
+APAC,Oceania,Southland
+APAC,Oceania,Taranaki
+APAC,Oceania,Tasmania
+APAC,Oceania,Victoria
+APAC,Oceania,Waikato
+APAC,Oceania,Wellington
+APAC,Oceania,Western Australia
+APAC,Southeast Asia,Aceh
+APAC,Southeast Asia,Bali
+APAC,Southeast Asia,Bangkok
+APAC,Southeast Asia,Bengkulu
+APAC,Southeast Asia,Calabarzon
+APAC,Southeast Asia,Central Luzon
+APAC,Southeast Asia,Cordillera
+APAC,Southeast Asia,Dà Nang
+APAC,Southeast Asia,Ho Chí Minh City
+APAC,Southeast Asia,Jakarta
+APAC,Southeast Asia,Jambi
+APAC,Southeast Asia,Jawa Barat
+APAC,Southeast Asia,Jawa Tengah
+APAC,Southeast Asia,Jawa Timur
+APAC,Southeast Asia,Kalimantan Barat
+APAC,Southeast Asia,Kalimantan Selatan
+APAC,Southeast Asia,Kalimantan Timur
+APAC,Southeast Asia,Khánh Hòa
+APAC,Southeast Asia,Kiên Giang
+APAC,Southeast Asia,Kuala Lumpur
+APAC,Southeast Asia,Maluku
+APAC,Southeast Asia,Nakhon Ratchasima
+APAC,Southeast Asia,National Capital
+APAC,Southeast Asia,Negeri Sembilan
+APAC,Southeast Asia,Northern Mindanao
+APAC,Southeast Asia,Nusa Tenggara Barat
+APAC,Southeast Asia,Nusa Tenggara Timur
+APAC,Southeast Asia,Pahang
+APAC,Southeast Asia,Papua
+APAC,Southeast Asia,Perak
+APAC,Southeast Asia,Phnom Penh
+APAC,Southeast Asia,Riau
+APAC,Southeast Asia,Sabah
+APAC,Southeast Asia,Sarawak
+APAC,Southeast Asia,Selangor
+APAC,Southeast Asia,Singapore
+APAC,Southeast Asia,Sulawesi Tengah
+APAC,Southeast Asia,Sulawesi Tenggara
+APAC,Southeast Asia,Sulawesi Utara
+APAC,Southeast Asia,Sumatera Barat
+APAC,Southeast Asia,Sumatera Selatan
+APAC,Southeast Asia,Sumatera Utara
+APAC,Southeast Asia,T?nh C?n Th?
+APAC,Southeast Asia,Th? Dô Hà N?i
+APAC,Southeast Asia,Trengganu
+APAC,Southeast Asia,Western Visayas
+APAC,Southeast Asia,Yangon
+APAC,Southeast Asia,Yogyakarta
+Africa,Africa,Abia
+Africa,Africa,Abuja Capital Territory
+Africa,Africa,Adamaoua
+Africa,Africa,Adamawa
+Africa,Africa,Akwa Ibom
+Africa,Africa,Al Bahr Al Ahmar
+Africa,Africa,Al Buhayrah
+Africa,Africa,Al Fayyum
+Africa,Africa,Al Gharbiyah
+Africa,Africa,Al Iskandariyah
+Africa,Africa,Al Marqab
+Africa,Africa,Al Minufiyah
+Africa,Africa,Al Minya
+Africa,Africa,Al Qahirah
+Africa,Africa,Alger
+Africa,Africa,Alibori
+Africa,Africa,Analamanga
+Africa,Africa,Anambra
+Africa,Africa,Annaba
+Africa,Africa,Anseba
+Africa,Africa,Arusha
+Africa,Africa,Ash Sharqiyah
+Africa,Africa,Ashanti
+Africa,Africa,Aswan
+Africa,Africa,Asyut
+Africa,Africa,Atakora
+Africa,Africa,Atlantique
+Africa,Africa,Atsimo-Andrefana
+Africa,Africa,Atsinanana
+Africa,Africa,Bamako
+Africa,Africa,Banaadir
+Africa,Africa,Bandundu
+Africa,Africa,Banghazi
+Africa,Africa,Bangui
+Africa,Africa,Bani Suwayf
+Africa,Africa,Bas-Congo
+Africa,Africa,Batna
+Africa,Africa,Bauchi
+Africa,Africa,Bechar
+Africa,Africa,Bejaia
+Africa,Africa,Benguela
+Africa,Africa,Benue
+Africa,Africa,Bie
+Africa,Africa,Bissau
+Africa,Africa,Boeny
+Africa,Africa,Borgou
+Africa,Africa,Borno
+Africa,Africa,Bujumbura-Mairie
+Africa,Africa,Bulawayo
+Africa,Africa,Bur Sa'id
+Africa,Africa,Cabo Delgado
+Africa,Africa,Central
+Africa,Africa,Central Equatoria
+Africa,Africa,Centrale
+Africa,Africa,Centre
+Africa,Africa,Chaouia-Ouardigha
+Africa,Africa,Cidade De Maputo
+Africa,Africa,Coast
+Africa,Africa,Constantine
+Africa,Africa,Copperbelt
+Africa,Africa,Cross River
+Africa,Africa,Dakar
+Africa,Africa,Dar Es Salaam
+Africa,Africa,Delta
+Africa,Africa,Diana
+Africa,Africa,Diffa
+Africa,Africa,Dire Dawa
+Africa,Africa,Dix-Huit Montagnes
+Africa,Africa,Djelfa
+Africa,Africa,Djibouti
+Africa,Africa,Donga
+Africa,Africa,Doukkala-Abda
+Africa,Africa,Eastern
+Africa,Africa,Eastern Cape
+Africa,Africa,Ebonyi
+Africa,Africa,Edo
+Africa,Africa,Enugu
+Africa,Africa,Equateur
+Africa,Africa,Est
+Africa,Africa,Estuaire
+Africa,Africa,Extreme-Nord
+Africa,Africa,Free State
+Africa,Africa,Fromager
+Africa,Africa,Fès-Boulemane
+Africa,Africa,Gauteng
+Africa,Africa,Gezira
+Africa,Africa,Gharb-Chrarda-Béni Hssen
+Africa,Africa,Gombe
+Africa,Africa,Grand Casablanca
+Africa,Africa,Grand Gedeh
+Africa,Africa,Greater Accra
+Africa,Africa,Guelma
+Africa,Africa,Guelmim-Es Semara
+Africa,Africa,Gulu
+Africa,Africa,Harare
+Africa,Africa,Haut-Sassandra
+Africa,Africa,Haute-Matsiatra
+Africa,Africa,Huambo
+Africa,Africa,Huila
+Africa,Africa,Imo
+Africa,Africa,Inhambane
+Africa,Africa,Iringa
+Africa,Africa,Jinja
+Africa,Africa,Jubbada Hoose
+Africa,Africa,Kabarole
+Africa,Africa,Kaduna
+Africa,Africa,Kafr Ash Shaykh
+Africa,Africa,Kampala
+Africa,Africa,Kankan
+Africa,Africa,Kano
+Africa,Africa,Kara
+Africa,Africa,Kasai-Occidental
+Africa,Africa,Kasai-Oriental
+Africa,Africa,Kassala
+Africa,Africa,Katanga
+Africa,Africa,Katsina
+Africa,Africa,Kayes
+Africa,Africa,Khartoum
+Africa,Africa,Khomas
+Africa,Africa,Kigali
+Africa,Africa,Kigoma
+Africa,Africa,Kilimanjaro
+Africa,Africa,Kindia
+Africa,Africa,Kinshasa
+Africa,Africa,Kwara
+Africa,Africa,Kwazulu-natal
+Africa,Africa,Lacs
+Africa,Africa,Laghouat
+Africa,Africa,Lagos
+Africa,Africa,Lagunes
+Africa,Africa,Limpopo
+Africa,Africa,Litoral
+Africa,Africa,Littoral
+Africa,Africa,Luanda
+Africa,Africa,Lusaka
+Africa,Africa,Malanje
+Africa,Africa,Mandoul
+Africa,Africa,Manica
+Africa,Africa,Manicaland
+Africa,Africa,Maniema
+Africa,Africa,Manzini
+Africa,Africa,Maputo
+Africa,Africa,Mara
+Africa,Africa,Maradi
+Africa,Africa,Maritime
+Africa,Africa,Marrakech-Tensift-El Haouz
+Africa,Africa,Maseru
+Africa,Africa,Mashonaland West
+Africa,Africa,Matabeleland North
+Africa,Africa,Matruh
+Africa,Africa,Mbeya
+Africa,Africa,Medea
+Africa,Africa,Meknès-Tafilalet
+Africa,Africa,Misratah
+Africa,Africa,Mono
+Africa,Africa,Montserrado
+Africa,Africa,Mopti
+Africa,Africa,Morogoro
+Africa,Africa,Mostaganem
+Africa,Africa,Mpumalanga
+Africa,Africa,Mtwara
+Africa,Africa,Mwanza
+Africa,Africa,Nairobi
+Africa,Africa,Namibe
+Africa,Africa,Nampula
+Africa,Africa,Niamey
+Africa,Africa,Niari
+Africa,Africa,Niassa
+Africa,Africa,Niger
+Africa,Africa,Nord
+Africa,Africa,Nord-Ouest
+Africa,Africa,North-West
+Africa,Africa,Northern
+Africa,Africa,Nouakchott
+Africa,Africa,Nyanza
+Africa,Africa,Nzérékoré
+Africa,Africa,Ogun
+Africa,Africa,Ondo
+Africa,Africa,Oran
+Africa,Africa,Orientale
+Africa,Africa,Osun
+Africa,Africa,Ouest
+Africa,Africa,Ouémé
+Africa,Africa,Oyo
+Africa,Africa,Plateau
+Africa,Africa,Plateaux
+Africa,Africa,Pwani
+Africa,Africa,Qina
+Africa,Africa,Rabat-Salé-Zemmour-Zaer
+Africa,Africa,Red Sea
+Africa,Africa,Rift Valley
+Africa,Africa,Rivers
+Africa,Africa,Ruvuma
+Africa,Africa,Saida
+Africa,Africa,Saint-Louis
+Africa,Africa,Savanes
+Africa,Africa,Shinyanga
+Africa,Africa,Sidi Bel Abbes
+Africa,Africa,Sikasso
+Africa,Africa,Skikda
+Africa,Africa,Sofala
+Africa,Africa,Sokoto
+Africa,Africa,Souss-Massa-Draâ
+Africa,Africa,South Kivu
+Africa,Africa,Southern
+Africa,Africa,Sud
+Africa,Africa,Sud-Ouest
+Africa,Africa,Suhaj
+Africa,Africa,Tabora
+Africa,Africa,Tadla-Azilal
+Africa,Africa,Tanga
+Africa,Africa,Tanger-Tétouan
+Africa,Africa,Taza-Al Hoceima-Taounate
+Africa,Africa,Tete
+Africa,Africa,Thies
+Africa,Africa,Tipaza
+Africa,Africa,Tizi Ouzou
+Africa,Africa,Tlemcen
+Africa,Africa,Tunis
+Africa,Africa,Vallee Du Bandama
+Africa,Africa,Western Cape
+Africa,Africa,White Nile
+Africa,Africa,Woqooyi Galbeed
+Africa,Africa,Yobe
+Africa,Africa,Zambezia
+Africa,Africa,Zamfara
+Africa,Africa,Ziguinchor
+Africa,Africa,Zinder
+Canada,Canada,Alberta
+Canada,Canada,British Columbia
+Canada,Canada,Manitoba
+Canada,Canada,Newfoundland
+Canada,Canada,Nova Scotia
+Canada,Canada,Ontario
+Canada,Canada,Quebec
+Canada,Canada,Saskatchewan
+EMEA,EMEA,Ad Dawhah
+EMEA,EMEA,Adana
+EMEA,EMEA,Adiyaman
+EMEA,EMEA,Afyonkarahisar
+EMEA,EMEA,Ajman
+EMEA,EMEA,Aksaray
+EMEA,EMEA,Al Basrah
+EMEA,EMEA,Al Hudaydah
+EMEA,EMEA,Al Jawf
+EMEA,EMEA,Al Madinah
+EMEA,EMEA,Al Qadisiyah
+EMEA,EMEA,Almaty
+EMEA,EMEA,Almaty City
+EMEA,EMEA,Amasya
+EMEA,EMEA,Amman
+EMEA,EMEA,Amur
+EMEA,EMEA,Andijan
+EMEA,EMEA,Ankara
+EMEA,EMEA,Antalya
+EMEA,EMEA,Aqmola
+EMEA,EMEA,Ar Raqqah
+EMEA,EMEA,Ar Riyad
+EMEA,EMEA,Arad
+EMEA,EMEA,Arbil
+EMEA,EMEA,Ardabil
+EMEA,EMEA,Ardahan
+EMEA,EMEA,Arges
+EMEA,EMEA,Arkhangel'sk
+EMEA,EMEA,Ash Sharqiyah
+EMEA,EMEA,Ashgabat
+EMEA,EMEA,Asir
+EMEA,EMEA,Astana
+EMEA,EMEA,Astrakhan'
+EMEA,EMEA,Aydin
+EMEA,EMEA,Babil
+EMEA,EMEA,Bacau
+EMEA,EMEA,Baghdad
+EMEA,EMEA,Baki
+EMEA,EMEA,Balikesir
+EMEA,EMEA,Balti
+EMEA,EMEA,Banská Bystrica
+EMEA,EMEA,Bashkortostan
+EMEA,EMEA,Batman
+EMEA,EMEA,Beirut
+EMEA,EMEA,Bekes
+EMEA,EMEA,Belgorod
+EMEA,EMEA,Bihor
+EMEA,EMEA,Bingol
+EMEA,EMEA,Bishkek
+EMEA,EMEA,Bistrita-Nasaud
+EMEA,EMEA,Bitola
+EMEA,EMEA,Bolu
+EMEA,EMEA,Botosani
+EMEA,EMEA,Braila
+EMEA,EMEA,Brasov
+EMEA,EMEA,Brest
+EMEA,EMEA,Bryansk
+EMEA,EMEA,Budapest
+EMEA,EMEA,Burgas
+EMEA,EMEA,Bursa
+EMEA,EMEA,Bushehr
+EMEA,EMEA,Buzau
+EMEA,EMEA,Canakkale
+EMEA,EMEA,Caras-Severin
+EMEA,EMEA,Carinthia
+EMEA,EMEA,Central
+EMEA,EMEA,Chelyabinsk
+EMEA,EMEA,Cherkasy
+EMEA,EMEA,Chernihiv
+EMEA,EMEA,Chisinau
+EMEA,EMEA,Cluj
+EMEA,EMEA,Constanta
+EMEA,EMEA,Corum
+EMEA,EMEA,Dagestan
+EMEA,EMEA,Dayr Az Zawr
+EMEA,EMEA,Denizli
+EMEA,EMEA,Dhi Qar
+EMEA,EMEA,Diyala
+EMEA,EMEA,Diyarbakir
+EMEA,EMEA,Dnipropetrovs'k
+EMEA,EMEA,Dolj
+EMEA,EMEA,Donetsk
+EMEA,EMEA,Durrës
+EMEA,EMEA,Düzce
+EMEA,EMEA,Edirne
+EMEA,EMEA,Elazig
+EMEA,EMEA,Elbasan
+EMEA,EMEA,Erzurum
+EMEA,EMEA,Esfahan
+EMEA,EMEA,Eskisehir
+EMEA,EMEA,Fars
+EMEA,EMEA,Federation of Bosnia and Herzegovina
+EMEA,EMEA,Galati
+EMEA,EMEA,Gaziantep
+EMEA,EMEA,Gilan
+EMEA,EMEA,Giurgiu
+EMEA,EMEA,Golestan
+EMEA,EMEA,Gorj
+EMEA,EMEA,Grad Zagreb
+EMEA,EMEA,Greater Poland
+EMEA,EMEA,Gyor
+EMEA,EMEA,Haifa
+EMEA,EMEA,Hajdu-Bihar
+EMEA,EMEA,Hamadan
+EMEA,EMEA,Harjumaa
+EMEA,EMEA,Hatay
+EMEA,EMEA,Hims
+EMEA,EMEA,Homyel'
+EMEA,EMEA,Hormozgan
+EMEA,EMEA,Hradec Kralove
+EMEA,EMEA,Hrodna
+EMEA,EMEA,Hunedoara
+EMEA,EMEA,Iasi
+EMEA,EMEA,Ibb
+EMEA,EMEA,Igdir
+EMEA,EMEA,Ilam
+EMEA,EMEA,Imereti
+EMEA,EMEA,Irbid
+EMEA,EMEA,Irkutsk
+EMEA,EMEA,Isparta
+EMEA,EMEA,Istanbul
+EMEA,EMEA,Ivano-Frankivsk
+EMEA,EMEA,Ivanovo
+EMEA,EMEA,Izmir
+EMEA,EMEA,Jerusalem
+EMEA,EMEA,Jizan
+EMEA,EMEA,Jizzakh
+EMEA,EMEA,Kabardino-Balkariya
+EMEA,EMEA,Kahramanmaras
+EMEA,EMEA,Kaliningrad
+EMEA,EMEA,Kaluga
+EMEA,EMEA,Karaman
+EMEA,EMEA,Karbala'
+EMEA,EMEA,Kars
+EMEA,EMEA,Kastamonu
+EMEA,EMEA,Kaunas
+EMEA,EMEA,Kayseri
+EMEA,EMEA,Kerman
+EMEA,EMEA,Kermanshah
+EMEA,EMEA,Kharkiv
+EMEA,EMEA,Khatlon
+EMEA,EMEA,Kherson
+EMEA,EMEA,Khmel'nyts'kyy
+EMEA,EMEA,Khorezm
+EMEA,EMEA,Khuzestan
+EMEA,EMEA,Kilis
+EMEA,EMEA,Kirovohrad
+EMEA,EMEA,Kirsehir
+EMEA,EMEA,Klaipeda
+EMEA,EMEA,Kocaeli
+EMEA,EMEA,Konya
+EMEA,EMEA,Kordestan
+EMEA,EMEA,Korçë
+EMEA,EMEA,Kumanovo
+EMEA,EMEA,Kutahya
+EMEA,EMEA,L'viv
+EMEA,EMEA,Lebap
+EMEA,EMEA,Lesser Poland
+EMEA,EMEA,Liberec
+EMEA,EMEA,Ljubljana
+EMEA,EMEA,Lodz
+EMEA,EMEA,Lorestan
+EMEA,EMEA,Lori
+EMEA,EMEA,Lublin
+EMEA,EMEA,Lubusz
+EMEA,EMEA,Luhans'k
+EMEA,EMEA,Makkah
+EMEA,EMEA,Malatya
+EMEA,EMEA,Manisa
+EMEA,EMEA,Maramures
+EMEA,EMEA,Mardin
+EMEA,EMEA,Markazi
+EMEA,EMEA,Mary
+EMEA,EMEA,Masovia
+EMEA,EMEA,Maysan
+EMEA,EMEA,Mazandaran
+EMEA,EMEA,Mehedinti
+EMEA,EMEA,Mersin
+EMEA,EMEA,Moravian-Silesian
+EMEA,EMEA,Moscow
+EMEA,EMEA,Muharraq
+EMEA,EMEA,Mures
+EMEA,EMEA,Mykolayiv
+EMEA,EMEA,Namangan
+EMEA,EMEA,Neamt
+EMEA,EMEA,Nevsehir
+EMEA,EMEA,Nigde
+EMEA,EMEA,Ninawa
+EMEA,EMEA,Nitra
+EMEA,EMEA,North Lebanon
+EMEA,EMEA,Novgorod
+EMEA,EMEA,Novosibirsk
+EMEA,EMEA,Olomouc
+EMEA,EMEA,Opole
+EMEA,EMEA,Ordu
+EMEA,EMEA,Osh
+EMEA,EMEA,Osjecko-Baranjska
+EMEA,EMEA,Osmaniye
+EMEA,EMEA,Panevezys
+EMEA,EMEA,Pavlodar
+EMEA,EMEA,Pazardzhik
+EMEA,EMEA,Pernik
+EMEA,EMEA,Pleven
+EMEA,EMEA,Plovdiv
+EMEA,EMEA,Plzen
+EMEA,EMEA,Podgorica
+EMEA,EMEA,Podlaskie
+EMEA,EMEA,Poltava
+EMEA,EMEA,Pomerania
+EMEA,EMEA,Prague
+EMEA,EMEA,Prahova
+EMEA,EMEA,Primorsko-Goranska
+EMEA,EMEA,Qaraghandy
+EMEA,EMEA,Qashqadaryo
+EMEA,EMEA,Qazvin
+EMEA,EMEA,Qom
+EMEA,EMEA,Qostanay
+EMEA,EMEA,Ra's Al Khaymah
+EMEA,EMEA,Razavi Khorasan
+EMEA,EMEA,Rivne
+EMEA,EMEA,Rize
+EMEA,EMEA,Salah Ad Din
+EMEA,EMEA,Salzburg
+EMEA,EMEA,Samsun
+EMEA,EMEA,Sanliurfa
+EMEA,EMEA,Satu Mare
+EMEA,EMEA,Semnan
+EMEA,EMEA,Sevastopol'
+EMEA,EMEA,Shkodër
+EMEA,EMEA,Shumen
+EMEA,EMEA,Sibiu
+EMEA,EMEA,Siirt
+EMEA,EMEA,Silesia
+EMEA,EMEA,Sirnak
+EMEA,EMEA,Sistan Va Baluchestan
+EMEA,EMEA,Sivas
+EMEA,EMEA,Sliven
+EMEA,EMEA,Sofiya-Grad
+EMEA,EMEA,South Khorasan
+EMEA,EMEA,Southern
+EMEA,EMEA,Splitsko-Dalmatinska
+EMEA,EMEA,Stara Zagora
+EMEA,EMEA,Stavropol'
+EMEA,EMEA,Styria
+EMEA,EMEA,Suceava
+EMEA,EMEA,Sumy
+EMEA,EMEA,Surxondaryo
+EMEA,EMEA,Ta'izz
+EMEA,EMEA,Tabuk
+EMEA,EMEA,Tambov
+EMEA,EMEA,Tartumaa
+EMEA,EMEA,Tbilisi
+EMEA,EMEA,Tehran
+EMEA,EMEA,Tekirdag
+EMEA,EMEA,Tel Aviv
+EMEA,EMEA,Ternopil'
+EMEA,EMEA,Timis
+EMEA,EMEA,Tokat
+EMEA,EMEA,Trabzon
+EMEA,EMEA,Tyrol
+EMEA,EMEA,Ulaanbaatar
+EMEA,EMEA,Upper Austria
+EMEA,EMEA,Usak
+EMEA,EMEA,Usti nad Labem
+EMEA,EMEA,Valcea
+EMEA,EMEA,Van
+EMEA,EMEA,Varna
+EMEA,EMEA,Vienna
+EMEA,EMEA,Vilnius
+EMEA,EMEA,Vinnytsya
+EMEA,EMEA,Vitsyebsk
+EMEA,EMEA,Vladimir
+EMEA,EMEA,Vlorë
+EMEA,EMEA,Volyn
+EMEA,EMEA,Voronezh
+EMEA,EMEA,Vrancea
+EMEA,EMEA,Vratsa
+EMEA,EMEA,Yalova
+EMEA,EMEA,Yambol
+EMEA,EMEA,Yaroslavl'
+EMEA,EMEA,Yazd
+EMEA,EMEA,Yevrey
+EMEA,EMEA,Zagrebacka
+EMEA,EMEA,Zanjan
+EMEA,EMEA,Zaporizhzhya
+EMEA,EMEA,Zhambyl
+EMEA,EMEA,Zhytomyr
+EMEA,EMEA,Šiauliai
+EMEA,EMEA,Žilina
+EU,Central,Alsace
+EU,Central,Antwerp
+EU,Central,Aquitaine
+EU,Central,Auvergne
+EU,Central,Baden-Württemberg
+EU,Central,Basel-Stadt
+EU,Central,Bavaria
+EU,Central,Berlin
+EU,Central,Bern
+EU,Central,Brandenburg
+EU,Central,Bremen
+EU,Central,Brittany
+EU,Central,Brussels
+EU,Central,Burgundy
+EU,Central,Carinthia
+EU,Central,Centre
+EU,Central,Champagne-Ardenne
+EU,Central,Corsica
+EU,Central,Drenthe
+EU,Central,East Flanders
+EU,Central,Flemish Brabant
+EU,Central,Franche-Comté
+EU,Central,Friesland
+EU,Central,Gelderland
+EU,Central,Geneva
+EU,Central,Groningen
+EU,Central,Hainaut
+EU,Central,Hamburg
+EU,Central,Hesse
+EU,Central,Ile-de-France
+EU,Central,Languedoc-Roussillon
+EU,Central,Limburg
+EU,Central,Limousin
+EU,Central,Liège
+EU,Central,Lorraine
+EU,Central,Lower Normandy
+EU,Central,Lower Saxony
+EU,Central,Lucerne
+EU,Central,Mecklenburg-Vorpommern
+EU,Central,Midi-Pyrénées
+EU,Central,Namur
+EU,Central,Nord-Pas-de-Calais
+EU,Central,North Brabant
+EU,Central,North Holland
+EU,Central,North Rhine-Westphalia
+EU,Central,Overijssel
+EU,Central,Pays de la Loire
+EU,Central,Picardy
+EU,Central,Poitou-Charentes
+EU,Central,Provence-Alpes-Côte d'Azur
+EU,Central,Rhineland-Palatinate
+EU,Central,Rhône-Alpes
+EU,Central,Saarland
+EU,Central,Salzburg
+EU,Central,Saxony
+EU,Central,Saxony-Anhalt
+EU,Central,Schleswig-Holstein
+EU,Central,South Holland
+EU,Central,St. Gallen
+EU,Central,Styria
+EU,Central,Thuringia
+EU,Central,Tyrol
+EU,Central,Upper Austria
+EU,Central,Upper Normandy
+EU,Central,Utrecht
+EU,Central,Vaud
+EU,Central,Vienna
+EU,Central,West Flanders
+EU,Central,Zeeland
+EU,Central,Zürich
+EU,North,Buskerud
+EU,North,Central Jutland
+EU,North,Cork
+EU,North,Dublin
+EU,North,England
+EU,North,Finland Proper
+EU,North,Galway
+EU,North,Halland
+EU,North,Hedmark
+EU,North,Hordaland
+EU,North,Hovedstaden
+EU,North,Kymenlaakso
+EU,North,Oslo
+EU,North,Rogaland
+EU,North,Scotland
+EU,North,Skåne
+EU,North,South Denmark
+EU,North,South Dublin
+EU,North,Stockholm
+EU,North,Södermanland
+EU,North,Uppsala
+EU,North,Uusimaa
+EU,North,Vest-Agder
+EU,North,Värmland
+EU,North,Västra Götaland
+EU,North,Wales
+EU,North,Zealand
+EU,South,Abruzzi
+EU,South,Andalusía
+EU,South,Apulia
+EU,South,Asturias
+EU,South,Aveiro
+EU,South,Balearic Islands
+EU,South,Basilicata
+EU,South,Basque Country
+EU,South,Braga
+EU,South,Calabria
+EU,South,Campania
+EU,South,Cantabria
+EU,South,Castile and León
+EU,South,Castile-La Mancha
+EU,South,Catalonia
+EU,South,Ceuta
+EU,South,Coimbra
+EU,South,Emilia-Romagna
+EU,South,Extremadura
+EU,South,Friuli-Venezia Giulia
+EU,South,Galicia
+EU,South,Lazio
+EU,South,Liguria
+EU,South,Lisboa
+EU,South,Lombardy
+EU,South,Madrid
+EU,South,Marche
+EU,South,Melilla
+EU,South,Murcia
+EU,South,Navarra
+EU,South,Piedmont
+EU,South,Porto
+EU,South,Sardinia
+EU,South,Setúbal
+EU,South,Sicily
+EU,South,Trentino-Alto Adige
+EU,South,Tuscany
+EU,South,Umbria
+EU,South,Valenciana
+EU,South,Veneto
+LATAM,Caribbean,Artemisa
+LATAM,Caribbean,Artibonite
+LATAM,Caribbean,Barahona
+LATAM,Caribbean,Camagüey
+LATAM,Caribbean,Chaguanas
+LATAM,Caribbean,Ciego de Ávila
+LATAM,Caribbean,Cienfuegos
+LATAM,Caribbean,Duarte
+LATAM,Caribbean,Espaillat
+LATAM,Caribbean,Granma
+LATAM,Caribbean,Guadeloupe
+LATAM,Caribbean,Guantánamo
+LATAM,Caribbean,Holguín
+LATAM,Caribbean,Isla de la Juventud
+LATAM,Caribbean,La Romana
+LATAM,Caribbean,La Vega
+LATAM,Caribbean,Las Tunas
+LATAM,Caribbean,Martinique
+LATAM,Caribbean,Matanzas
+LATAM,Caribbean,Mayabeque
+LATAM,Caribbean,Monseñor Nouel
+LATAM,Caribbean,Ouest
+LATAM,Caribbean,Peravia
+LATAM,Caribbean,Pinar del Río
+LATAM,Caribbean,Saint Catherine
+LATAM,Caribbean,Saint Michael
+LATAM,Caribbean,San Cristóbal
+LATAM,Caribbean,San Fernando
+LATAM,Caribbean,San Juan
+LATAM,Caribbean,San Pedro de Macorís
+LATAM,Caribbean,Sancti Spíritus
+LATAM,Caribbean,Santiago
+LATAM,Caribbean,Santiago de Cuba
+LATAM,Caribbean,Santo Domingo
+LATAM,Caribbean,Villa Clara
+LATAM,Central,Atlántida
+LATAM,Central,Chimaltenango
+LATAM,Central,Chinandega
+LATAM,Central,Chiriquí
+LATAM,Central,Choluteca
+LATAM,Central,Colón
+LATAM,Central,Cortés
+LATAM,Central,Cuscatlán
+LATAM,Central,Escuintla
+LATAM,Central,Estelí
+LATAM,Central,Francisco Morazán
+LATAM,Central,Granada
+LATAM,Central,Guatemala
+LATAM,Central,Huehuetenango
+LATAM,Central,La Libertad
+LATAM,Central,León
+LATAM,Central,Managua
+LATAM,Central,Masaya
+LATAM,Central,Matagalpa
+LATAM,Central,Panama
+LATAM,Central,Quezaltenango
+LATAM,Central,San Salvador
+LATAM,Central,Santa Ana
+LATAM,Central,Sonsonate
+LATAM,Central,Yoro
+LATAM,North,Baja California
+LATAM,North,Baja California Sur
+LATAM,North,Campeche
+LATAM,North,Chiapas
+LATAM,North,Chihuahua
+LATAM,North,Coahuila
+LATAM,North,Colima
+LATAM,North,Distrito Federal
+LATAM,North,Durango
+LATAM,North,Guanajuato
+LATAM,North,Guerrero
+LATAM,North,Hidalgo
+LATAM,North,Jalisco
+LATAM,North,Michoacán
+LATAM,North,Morelos
+LATAM,North,México
+LATAM,North,Nayarit
+LATAM,North,Nuevo León
+LATAM,North,Oaxaca
+LATAM,North,Puebla
+LATAM,North,Querétaro
+LATAM,North,Quintana Roo
+LATAM,North,San Luis Potosí
+LATAM,North,Sinaloa
+LATAM,North,Sonora
+LATAM,North,Tabasco
+LATAM,North,Tamaulipas
+LATAM,North,Veracruz
+LATAM,North,Yucatán
+LATAM,North,Zacatecas
+LATAM,South,Acre
+LATAM,South,Alagoas
+LATAM,South,Amapá
+LATAM,South,Amazonas
+LATAM,South,Ancash
+LATAM,South,Antioquia
+LATAM,South,Antofagasta
+LATAM,South,Anzoátegui
+LATAM,South,Aragua
+LATAM,South,Arauca
+LATAM,South,Arequipa
+LATAM,South,Arica y Parinacota
+LATAM,South,Asunción
+LATAM,South,Atacama
+LATAM,South,Atlántico
+LATAM,South,Ayacucho
+LATAM,South,Azuay
+LATAM,South,Bahia
+LATAM,South,Beni
+LATAM,South,Biobio
+LATAM,South,Bogota
+LATAM,South,Bolivar
+LATAM,South,Bolívar
+LATAM,South,Boyacá
+LATAM,South,Buenos Aires
+LATAM,South,Cajamarca
+LATAM,South,Caldas
+LATAM,South,Callao
+LATAM,South,Canelones
+LATAM,South,Caquetá
+LATAM,South,Carabobo
+LATAM,South,Casanare
+LATAM,South,Catamarca
+LATAM,South,Ceará
+LATAM,South,Central
+LATAM,South,Cesar
+LATAM,South,Chaco
+LATAM,South,Chocó
+LATAM,South,Chubut
+LATAM,South,Chuquisaca
+LATAM,South,Cochabamba
+LATAM,South,Cojedes
+LATAM,South,Corrientes
+LATAM,South,Cundinamarca
+LATAM,South,Córdoba
+LATAM,South,Distrito Capital
+LATAM,South,Entre Ríos
+LATAM,South,Espírito Santo
+LATAM,South,Federal District
+LATAM,South,Goiás
+LATAM,South,Guayas
+LATAM,South,Guárico
+LATAM,South,Huila
+LATAM,South,Ica
+LATAM,South,Jujuy
+LATAM,South,Junín
+LATAM,South,La Libertad
+LATAM,South,La Pampa
+LATAM,South,La Paz
+LATAM,South,La Rioja
+LATAM,South,Lambayeque
+LATAM,South,Lara
+LATAM,South,Lima
+LATAM,South,Lima (city)
+LATAM,South,Loreto
+LATAM,South,Los Lagos
+LATAM,South,Los Rios
+LATAM,South,Magallanes y Antártica Chilena
+LATAM,South,Magdalena
+LATAM,South,Manabi
+LATAM,South,Maranhão
+LATAM,South,Mato Grosso
+LATAM,South,Mato Grosso do Sul
+LATAM,South,Mendoza
+LATAM,South,Meta
+LATAM,South,Minas Gerais
+LATAM,South,Miranda
+LATAM,South,Misiones
+LATAM,South,Monagas
+LATAM,South,Montevideo
+LATAM,South,Moquegua
+LATAM,South,Mérida
+LATAM,South,Nariño
+LATAM,South,Neuquén
+LATAM,South,Norte de Santander
+LATAM,South,Nueva Esparta
+LATAM,South,O'Higgins
+LATAM,South,Oruro
+LATAM,South,Parana
+LATAM,South,Paraíba
+LATAM,South,Pará
+LATAM,South,Paysandú
+LATAM,South,Pernambuco
+LATAM,South,Piauí
+LATAM,South,Pichincha
+LATAM,South,Piura
+LATAM,South,Portuguesa
+LATAM,South,Potosí
+LATAM,South,Provincia de Buenos Aires
+LATAM,South,Puno
+LATAM,South,Quindío
+LATAM,South,Rio Grande do Norte
+LATAM,South,Rio Grande do Sul
+LATAM,South,Rio de Janeiro
+LATAM,South,Risaralda
+LATAM,South,Rivera
+LATAM,South,Rondônia
+LATAM,South,Roraima
+LATAM,South,Río Negro
+LATAM,South,Salta
+LATAM,South,San Juan
+LATAM,South,San Luis
+LATAM,South,Santa Catarina
+LATAM,South,Santa Cruz
+LATAM,South,Santa Fe
+LATAM,South,Santander
+LATAM,South,Santiago
+LATAM,South,Santiago del Estero
+LATAM,South,Sergipe
+LATAM,South,Sucre
+LATAM,South,São Paulo
+LATAM,South,Tarapacá
+LATAM,South,Tarija
+LATAM,South,Tocantins
+LATAM,South,Tolima
+LATAM,South,Táchira
+LATAM,South,Ucayali
+LATAM,South,Valle del Cauca
+LATAM,South,Valparaíso
+LATAM,South,Vargas
+LATAM,South,Yaracuy
+LATAM,South,Zulia
+US,Central,Illinois
+US,Central,Indiana
+US,Central,Iowa
+US,Central,Kansas
+US,Central,Michigan
+US,Central,Minnesota
+US,Central,Missouri
+US,Central,Nebraska
+US,Central,North Dakota
+US,Central,Oklahoma
+US,Central,South Dakota
+US,Central,Texas
+US,Central,Wisconsin
+US,East,Connecticut
+US,East,Delaware
+US,East,District of Columbia
+US,East,Maine
+US,East,Maryland
+US,East,Massachusetts
+US,East,New Hampshire
+US,East,New Jersey
+US,East,New York
+US,East,Ohio
+US,East,Pennsylvania
+US,East,Rhode Island
+US,East,Vermont
+US,East,West Virginia
+US,South,Alabama
+US,South,Arkansas
+US,South,Florida
+US,South,Georgia
+US,South,Kentucky
+US,South,Louisiana
+US,South,Mississippi
+US,South,North Carolina
+US,South,South Carolina
+US,South,Tennessee
+US,South,Virginia
+US,West,Arizona
+US,West,California
+US,West,Colorado
+US,West,Idaho
+US,West,Montana
+US,West,Nevada
+US,West,New Mexico
+US,West,Oregon
+US,West,Utah
+US,West,Washington
+US,West,Wyoming
