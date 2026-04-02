@@ -1,0 +1,37 @@
+state,region,market,No_of_rows,number_of_regions
+Central,South,LATAM,10,4
+Central,EMEA,EMEA,3,4
+Central,Central Asia,APAC,19,4
+Central,Africa,Africa,9,4
+Vienna,EMEA,EMEA,43,2
+Vienna,Central,EU,202,2
+Upper Austria,EMEA,EMEA,3,2
+Upper Austria,Central,EU,19,2
+Ulaanbaatar,North Asia,APAC,1,2
+Ulaanbaatar,EMEA,EMEA,36,2
+Tyrol,EMEA,EMEA,3,2
+Tyrol,Central,EU,15,2
+Styria,EMEA,EMEA,3,2
+Styria,Central,EU,9,2
+Southern,EMEA,EMEA,12,2
+Southern,Africa,Africa,18,2
+Santiago,South,LATAM,86,2
+Santiago,Caribbean,LATAM,93,2
+San Juan,South,LATAM,8,2
+San Juan,Caribbean,LATAM,20,2
+Salzburg,EMEA,EMEA,4,2
+Salzburg,Central,EU,6,2
+Ouest,Caribbean,LATAM,92,2
+Ouest,Africa,Africa,12,2
+National Capital,Southeast Asia,APAC,561,2
+National Capital,Oceania,APAC,22,2
+La Libertad,South,LATAM,3,2
+La Libertad,Central,LATAM,21,2
+Huila,South,LATAM,4,2
+Huila,Africa,Africa,1,2
+Centre,Central,EU,56,2
+Centre,Africa,Africa,41,2
+Carinthia,EMEA,EMEA,5,2
+Carinthia,Central,EU,19,2
+Ash Sharqiyah,EMEA,EMEA,16,2
+Ash Sharqiyah,Africa,Africa,6,2
