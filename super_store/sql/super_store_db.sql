@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS superstore;
+CREATE DATABASE superstore;
