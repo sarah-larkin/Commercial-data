@@ -1,6 +1,6 @@
 \c superstore
 
--- Create Locations tables 
+-- Create Locations tables : market, region, state
 
 CREATE TABLE market (
     market_id SERIAL PRIMARY KEY,
@@ -17,6 +17,17 @@ CREATE TABLE state (
     state_name TEXT
 );
 
+-- create Date tables : dates (one or 2 for order and shipping?)
+
+-- create Product tables: product_id & product_name, category, sub-category,  segment
+
+-- create Customer tables: customer_id & Customer_name
+
+-- create Shippinge tables: shipping_mode, order priority 
 
 
--- psql sql/tables.sql
+-- create fact table with all new columns
+
+
+
+"""psql sql/tables.sql"""

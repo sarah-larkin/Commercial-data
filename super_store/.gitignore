@@ -2,3 +2,26 @@
 .venv
 .mypy_cache/
 __pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data outputs
+data/01_raw/*
+data/02_clean/*
+!data/**/.gitkeep
+
+# Environment
+.env.*
