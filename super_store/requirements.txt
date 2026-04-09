@@ -1,0 +1,5 @@
+Python
+Jupytor Notebooks 
+Pandas
+pg8000
+python-dotenv
