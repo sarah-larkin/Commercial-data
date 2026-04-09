@@ -1,9 +1,7 @@
 \c superstore
 
-""" The dims tables contain multiple columns. 
-These could be separated out further. 
-Given the size of the dataset and purpose of this project
-they will remain combined at this point."""
+""" The dims tables contain multiple columns. These could be separated out further. 
+Given the size of the dataset and purpose of this project, they will remain combined at this point."""
 
 -- Create Locations table : market, region, state
 
@@ -43,7 +41,28 @@ CREATE TABLE dim_customer (
 -- create fact table with all new columns
 
 CREATE TABLE fact_orders (
-    #TODO: complete fact table
+    order_id,
+    order_date,
+    ship_date,
+    ship_mode,
+    customer_id,
+    location_id,
+    product_id,
+    sales,
+    quantity,
+    discount,
+    profit,
+    shipping_cost,
+    order_priority,
+    order_prep_days,
+    GM2, -- to delete from df
+    profit_margin,
+    GM2 %,
+    loss_making,
+    discount_range,
+    order_value_range
 );
 
-"""psql sql/tables.sql"""
+"""
+psql sql/tables.sql
+"""
