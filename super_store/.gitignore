@@ -21,6 +21,8 @@ Thumbs.db
 # Data outputs
 data/01_raw/*
 data/02_clean/*
+*.csv
+*.parquet
 !data/**/.gitkeep
 
 # Environment
