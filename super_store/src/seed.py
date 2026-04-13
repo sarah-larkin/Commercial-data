@@ -32,8 +32,7 @@ def seed():
     close_connection(conn)
 
 
-
-    
+#TODO: change seeing to entering data only (not creating tables)
 
 """ to see: 
 psql            - access psql
