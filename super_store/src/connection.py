@@ -1,8 +1,8 @@
 #pip install PG8000
 #pip install python-dotenv
 
-import os                               #to access the .enc
-from dotenv import load_dotenv          #to read the .env
+import os                               #to access the env variables
+from dotenv import load_dotenv          #to read the .env file
 from pg8000.native import Connection    #to connect to the DB
 
 
