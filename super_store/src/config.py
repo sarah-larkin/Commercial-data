@@ -2,15 +2,25 @@ from pathlib import Path
 
 #create path object 
 #PROJECT_ROOT = Path.cwd()   #current working directory
-PROJECT_ROOT = Path(__file__).parents[1]     #super_store/src/config.py  --> take it back 2 to super_store (.parent.parent)
-RAW_DATA = PROJECT_ROOT / "data/01_raw/store_data.csv"
-CLEAN_DATA_DIR = PROJECT_ROOT / "data/02_clean/"
-CLEAN_DATA = PROJECT_ROOT / "data/02_clean/01_cleaned_store_data.parquet"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]     #super_store/src/config.py  --> take it back 2 to super_store (.parent.parent)
+RAW_DATA = PROJECT_ROOT / "data/00_raw/store_data.csv"
+CLEAN_DATA_DIR = PROJECT_ROOT / "data/01_clean/"
+CLEAN_DATA = PROJECT_ROOT / "data/01_clean/01_cleaned_store_data.parquet"
 
 
+# #see all directories: 
+# for p in Path().iterdir():
+#     print(p)
 
+# print(Path(__file__))
+# print(Path(__file__).resolve())
 
+# #see all current paths:
+# import sys
+# for i in sys.path: 
+#     print(i)
 
+print(PROJECT_ROOT)
 
 
 # #see parts of a path 
