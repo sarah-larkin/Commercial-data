@@ -1,42 +1,55 @@
-from connection import create_connection, close_connection   #from src
 
-def seed(): 
+from connection import create_connection, close_cursor_connection
+import csv
+from config import LOAD_DATA_DIR
+
+def seed(file_name_str): 
     conn = create_connection()
+    cur = conn.cursor() #open a cursor to perform database operations
 
-    conn.run("DROP TABLE IF EXISTS market;")
-    conn.run("DROP TABLE IF EXISTS region;")
-    conn.run("DROP TABLE IF EXISTS state;")
+    with open( LOAD_DATA_DIR / file_name_str, 'r') as file: 
+        data_reader = csv.reader(file)
+        next(data_reader) #skip the header row 
 
-    conn.run("""
-        CREATE TABLE market (
-            market_id SERIAL PRIMARY KEY,
-            market_name TEXT
-        );
-    """)
+        for row in data_reader: 
+            cur.execute(""" 
+                         INSERT INTO dim_location
+                         (market_name, region_name, state_name)
+                         VALUES
+                         (%s, %s, %s)
+                         """, row)
+    #%s = string values
 
-    conn.run("""
-        CREATE TABLE region (
-            region_id SERIAL PRIMARY KEY,
-            region_name TEXT
-        );
-    """)
+    #commit and close connection
+    close_cursor_connection(conn, cur)
 
-    conn.run("""
-        CREATE TABLE state (
-            state_id SERIAL PRIMARY KEY,
-            state_name TEXT
-        );
-    """)
+    print("Data is ingested sucessfully")
 
 
-    close_connection(conn)
+#TODO: not fully scalable yet due to SQL syntax - check options 
+
+if __name__ == "__main__": 
+    seed('dim_location_table.csv')
 
 
-#TODO: change seeing to entering data only (not creating tables)
+# #open a cursor to perform database operations
+# cur = conn.cursor() 
 
-""" to see: 
-psql            - access psql
-\c superstore   - connect to db
-\d region       - see table relations
-q               - to quit 
-"""
+# #Execute a query
+# cur.execute("--SQL...")
+
+# #Retrieve query results
+# records = cur.fethall() 
+
+
+
+
+
+# conn = psycopg2.connect(DSN)
+# try:
+#     # Perform operations
+#     with conn.cursor() as cur:
+#         cur.execute(SQL)
+#     conn.commit()
+# finally:
+#     conn.close() # Ensures it closes even if an error occurs
