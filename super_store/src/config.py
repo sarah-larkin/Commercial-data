@@ -6,7 +6,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]     #super_store/src/config.p
 RAW_DATA = PROJECT_ROOT / "data/00_raw/store_data.csv"
 CLEAN_DATA_DIR = PROJECT_ROOT / "data/01_clean/"
 CLEAN_DATA = PROJECT_ROOT / "data/01_clean/01_cleaned_store_data.parquet"
-
+LOAD_DATA_DIR = PROJECT_ROOT / "data/02_load/"
 
 # #see all directories: 
 # for p in Path().iterdir():
